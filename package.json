@@ -4,6 +4,7 @@
 	"description": "FreeCodeCamp Awesome Project",
 	"keywords": ["project", "freecodecamp", "backend", "hello-world"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
