@@ -2,6 +2,7 @@
         "name": "fcc-learn-npm-package-json",
 	"author": "Egemen",
 	"description": "FreeCodeCamp Awesome Project",
+	"keywords": ["project", "freecodecamp", "backend", "hello-world"]
 	"dependencies": {
 		"express": "^4.14.0"
 	},
