@@ -1,6 +1,6 @@
 {
-        "author": "Egemen",
-	"name": "fcc-learn-npm-package-json",
+        "name": "fcc-learn-npm-package-json",
+	"author": "Egemen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
